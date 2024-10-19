@@ -1,0 +1,10 @@
+tensorflow[and-cuda]
+numpy
+pandas
+notebook
+matplotlib
+pillow
+opencv-python
+fastapi
+uvicorn
+scikit-learn
